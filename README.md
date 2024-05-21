@@ -20,7 +20,6 @@ PASS : MEGA
 
 Will add more in next version
 
-|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 How to use (will post video soon on yt too)
 Put smtps in smtps.txt should be like this :
 smtp.google.com|587|N|behjejah@gmail.com|12521|behjejah@gmail.com
@@ -48,4 +47,3 @@ To call subject for email : +subject+
 To call From name for email : +sender_name+
 
 To call email address: +to_email+
-|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
