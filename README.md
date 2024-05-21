@@ -8,19 +8,29 @@ PASS : MEGA
 
 
 -Random Parameters.
+
 -Subject Rotation.
+
 -From Name Rotation.
+
 -SMTP Rotation.
+
 -Bulk Sender.
+
 -Choose SMTP SSL/NO.
+
 -Save Good SMTPS With email sent.
+
 -Save Bad SMTP.
+
 -SMTP CHECKER WHILE SENDING.
+
 -Letter Random parameters ,strings and names to never get junk sending.
+
 
 Will add more in next version
 
-How to use (will post video soon on yt too)
+How to use
 Put smtps in smtps.txt should be like this :
 smtp.google.com|587|N|behjejah@gmail.com|12521|behjejah@gmail.com
 
